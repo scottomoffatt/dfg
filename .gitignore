@@ -1,12 +1,12 @@
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
-/wp-content/themes/dfg/.cache-loader
-/wp-content/themes/dfg/dist
-/wp-content/themes/dfg/node_modules
-/wp-content/themes/dfg/npm-debug.log
-/wp-content/themes/dfg/yarn-error.log
-/wp-content/themes/dfg/vendor
-/wp-content/themes/dfg/resources/assets/config-local.json
-/wp-content/themes/dfg/yarn.lock
-/wp-content/themes/dfg/package-lock.json
-/wp-content/themes/dfg/package.json
+wp-content/themes/dfg/.cache-loader
+wp-content/themes/dfg/dist
+wp-content/themes/dfg/node_modules
+wp-content/themes/dfg/npm-debug.log
+wp-content/themes/dfg/yarn-error.log
+wp-content/themes/dfg/vendor
+wp-content/themes/dfg/resources/assets/config-local.json
+wp-content/themes/dfg/yarn.lock
+wp-content/themes/dfg/package-lock.json
+wp-content/themes/dfg/package.json
