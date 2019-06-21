@@ -1,0 +1,10 @@
+.banner .nav li {
+  @extend .navbar-item;
+}
+
+.nav-primary {
+  ul {
+    display: flex;
+    justify-content: center;
+  }
+}
